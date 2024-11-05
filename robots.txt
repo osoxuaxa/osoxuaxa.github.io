@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osoxuaxa.github.io/GqC/sitemap_index.txt
+Sitemap: https://osoxuaxa.github.io/JpW/sitemap_index.txt
+Sitemap: https://osoxuaxa.github.io/VIH/sitemap_index.txt
+Sitemap: https://osoxuaxa.github.io/Zei/sitemap_index.txt
